@@ -1,0 +1,12 @@
+# Large Intel manuals (reference only)
+*.pdf
+*.pdf.*
+
+# Build artifacts
+bfasm
+bfasm.o
+bfasm.lst
+
+# Transient debug / output
+*.gdb
+/tmp/
